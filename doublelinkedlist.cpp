@@ -14,3 +14,10 @@ struct Node
 
 //deklarasi pointer start dan pemberian nilai
 Node *START = NULL;
+
+//deklarasi prosedur addNote
+void addNode()
+{
+
+    
+}
